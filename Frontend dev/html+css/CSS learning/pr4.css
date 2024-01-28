@@ -1,0 +1,30 @@
+#nav{
+    height: 50px;
+   text-transform: capitalize;
+    border-width: 3px;
+    border-style: solid;
+    border-color: wheat;
+    background-color: black;
+    color: gold;
+}
+button{
+    background-color: gold;
+    font-weight: bold;
+}
+a{
+    text-decoration: none;
+}
+.con{
+    height: 100px;
+    width: 100px;
+    border: solid skyblue 2px;
+    display: inline-block;
+}
+footer{
+    background-color: black;
+color: aliceblue;
+text-align: center;
+}
+#cont{
+    height: 600px;
+}

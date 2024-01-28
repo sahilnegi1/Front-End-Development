@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: sandybrown;
+    text-transform: capitalize;
+}
+/* #box1{height: 100px;
+width: 100px;
+background-color: aqua;}
+#box2{
+    height: 72vh;
+width: 100vw;
+
+    background-color: brown;
+} */
+div{
+    height: 100px;
+    width: 100px;
+    background-color: bisque;
+    border: 2px solid skyblue;
+    display: inline-block;
+    
+}
+#box1{
+    position: static;
+}
+#box2{
+position: relative;
+left: 10px;
+top: 10px;
+}
+#box3{
+    
+}
+#box4{
+    
+}

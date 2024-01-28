@@ -1,0 +1,29 @@
+div{
+    height: 100px;
+    width:100px;
+    color: rgb(196, 32, 32);
+    background-color: skyblue;
+    border: 2px solid black;
+    font-weight: bolder;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    animation:coloranimate 2s ease-in 0s 2;
+}
+@keyframes coloranimate {
+    from{rotate: 0deg;}
+    to {
+        rotate: 360deg;
+    }
+    
+}
+
+div:hover{
+    
+    
+}
+div:active{
+    background-color: pink;
+    color: black;
+
+}

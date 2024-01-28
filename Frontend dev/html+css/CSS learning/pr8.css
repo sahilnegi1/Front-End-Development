@@ -1,0 +1,19 @@
+.loader{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 20px solid gold;
+    border-top: 20px solid black;
+    position: relative;
+    top: 200px;
+    left: 200px;
+    animation: gola 2s linear 0s infinite normal;
+
+}
+@keyframes gola {
+    from{transform: rotate( 0deg);}
+    to{
+        transform: rotate(360deg);
+    }
+    
+}

@@ -1,0 +1,22 @@
+h3{
+    color: yellow;
+}
+p{
+    color: teal;
+    text-align: center;
+}
+button{
+    color: teal;
+    background-color: white;
+    position: relative;
+    transform: translateX(750%);
+}
+a {
+    text-decoration: none;
+}
+#divid1{
+    background-color: bisque;
+}
+.heading{
+    color: red;
+}
